@@ -41,3 +41,13 @@ Rush 01	|	[`FR Subject`](Rushs/Rush-01/Rush-01_Sujet.pdf) [`EN Subject`](Rushs/R
 Rush 02	|	[`FR Subject`](Rushs/Rush-02/Rush-02_Sujet.pdf) [`EN Subject`](Rushs/Rush-02/Rush-02_EN.pdf)| [`Rush02 Completed`](Rushs/Rush-02) [`Dictionary`](Rushs/Rush-02/Dictionary.txt)
 
 __________________________________________________________________
+
+
+<div align="center">
+	<div>
+	<img height="222em" src="https://zupimages.net/up/24/13/rfa8.jpeg">
+	</div>
+	<div>
+	<div>
+    	</div>
+    	<div>
